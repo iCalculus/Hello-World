@@ -1,2 +1,2 @@
 # Hello-World
-Basically one of the basic Hello-World projects
+A project, just like any other
